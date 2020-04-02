@@ -3,6 +3,8 @@ package gt.edu.umg.ingenieria.sistemas.ingsoftware.App;
 import java.util.*;
 
 /**
+ *
+ * 
  * 
  */
 public class Adult extends Person {
